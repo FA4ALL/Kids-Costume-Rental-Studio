@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fa4all.github.io/Kids-Costume-Rental-Studio/sitemap.xml
